@@ -1,0 +1,18 @@
+label {
+  color: white;
+  font-size: 1em;
+}
+
+input {
+  padding: 0.5em;
+  font-size: 1em;
+  color: white;
+  border: none;
+  background-color: rgb(73, 73, 73);
+  box-shadow: rgb(98, 98, 98) 0px 0px 16px;
+  border-radius: 5px;
+}
+
+input:focus {
+  outline: 2px solid rgb(98, 98, 98);
+}
